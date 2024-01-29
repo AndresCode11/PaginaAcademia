@@ -13315,7 +13315,7 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
 }
 .client-carousel--base {
-  padding-bottom: 120px;
+  padding: 80px 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .client-carousel--base {
@@ -13341,7 +13341,6 @@ body.megamenu-popup-active .mobile-nav__content {
   }
 }
 .client-carousel__one__item img {
-  opacity: 0.2;
   transition: all 500ms ease;
   max-width: 100%;
   width: auto !important;
@@ -13447,9 +13446,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .client-carousel-one .client-carousel__one__item img {
   transition: all 500ms ease;
-  opacity: 0.2;
   max-width: 100%;
-  max-width: 150px;
 }
 .client-carousel-one .client-carousel__one__item:hover {
   background-color: #f8f5f0;
@@ -13459,7 +13456,6 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 
 .client-carousel__one__item img {
-  max-width: 145px;
   width: 100%;
 }
 

@@ -16361,3 +16361,8 @@ body.boxed-wrapper .contact-two__left__shape {
   background: var(--drivschol-primary, #EC2526);
 }
 /*# sourceMappingURL=drivschol.css.map */
+
+.cart-with-logo {
+  width: 100%;
+  height: auto;
+}

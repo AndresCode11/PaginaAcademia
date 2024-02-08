@@ -13221,7 +13221,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .page-header .container {
   position: relative;
-  z-index: 10;
+  z-index: 3;
   text-align: center;
 }
 .page-header__title {
